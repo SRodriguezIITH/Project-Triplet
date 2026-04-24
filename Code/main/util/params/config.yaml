@@ -1,0 +1,4 @@
+folders:
+  mocap_txt: "data/mocap_txt"
+  mocap_json: "data/mocap_json"
+  mocap_bvh: "data/mocap_bvh"
